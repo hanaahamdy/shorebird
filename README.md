@@ -9,7 +9,9 @@
 
 Mac=======>(export PATH="$HOME/.shorebird/bin:$PATH")  في ملف ~/.zshrc
 Windows====>(Environment Variables نختار المتغير Path====>New====>C:\Users\<اسم_المستخدم>\.shorebird\bin)
-2-## 🩺 التحقق من جاهزية Shorebird
+
+
+2-## 🩺 - التحقق من جاهزية Shorebird 
 يمكننا استخدام هذا الامر(shorebird doctor) للتحقق من تثبيت ال shorebird cli بشكل صحيح. 
 
 
