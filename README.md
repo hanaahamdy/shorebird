@@ -14,7 +14,7 @@
 
 ### 1. تثبيت Shorebird CLI:
 أول حاجة، هنفتح التيرمينال ونكتب الأمر ده علشان ننزل أداة Shorebird CLI
-الأمر ده بينزل ويشغّل سكربت التثبيت تلقائي، علشان نقدر نستخدم أوامر Shorebird بعد كده.
+الأمر ده بينزل ويشغّل سكربت التثبيت تلقائي، علشان نقدر نستخدم أوامر Shorebird بعد كده ونتعامل مع ال shorebird server.
 
 <pre>curl --proto '=https' --tlsv1.2 https://raw.githubusercontent.com/shorebirdtech/install/main/install.sh -sSf | bash)</pre>
 
