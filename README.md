@@ -9,6 +9,8 @@
 بعد تثبيت Shorebird ClI نقوم بإضافة مسار مجلد bin إلى متغيرال PATH حتى تتمكن من استخدام أوامر shorebird من أي مكان في الجهاز.
 
 Mac=======>(export PATH="$HOME/.shorebird/bin:$PATH")  في ملف ~/.zshrc
+
+
 Windows====>(Environment Variables نختار المتغير Path====>New====>C:\Users\<اسم_المستخدم>\.shorebird\bin)
 
 
