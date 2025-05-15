@@ -51,15 +51,15 @@ Windows====>(Environment Variables نختار المتغير Path====>New====>C:
 
 ما يمكن تحديثه من خلال Shorebird):
 -تعديلات في الوجهات المبنيه بلغة dart.
-أي تغييرات في منطق التطبيق
+أي تغييرات في منطق التطبيق.
 
 
 
 .
-ما لا يمكن تحديثه عبر Shorebird:
+ما لا يمكن تحديثه من خلال ال Shorebird:
 اضافه او ازاله اذونات في ملف info.split/AndroidManifest.xml.
-تعديل او اضافة native plugin.تغيير ال launch icon
-تغيير اسم التطبيق او package name
+تعديل او اضافة native plugin.تغيير ال launch icon.
+تغيير اسم التطبيق او package name.
 
 
 
