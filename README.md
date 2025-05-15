@@ -60,9 +60,12 @@ Windows====>(Environment Variables نختار المتغير Path====>New====>C:
 
 
 
+
 **ما يمكن تحديثه من خلال Shorebird:**
 - تعديلات في الواجهات المبنية بلغة Dart.  
 - أي تغييرات في منطق التطبيق (Business Logic).
+
+
 
 **ما لا يمكن تحديثه من خلال Shorebird:**
 - إضافة أو إزالة أذونات (Permissions) في ملف `info.split/AndroidManifest.xml`.  
