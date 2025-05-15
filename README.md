@@ -10,7 +10,7 @@
 
 <pre>curl --proto '=https' --tlsv1.2 https://raw.githubusercontent.com/shorebirdtech/install/main/install.sh -sSf | bash)</pre>
 
-بعد تثبيت Shorebird ClI نقوم بإضافة مسار مجلد bin إلى متغيرال PATH حتى تتمكن من استخدام أوامر shorebird من أي مكان في الجهاز.
+بعد تثبيت Shorebird ClI نقوم بإضافة مسار ملف ال bin إلى متغيرال PATH حتى تتمكن من استخدام أوامر shorebird من أي مكان في الجهاز.
 
 -Mac=======>(export PATH="$HOME/.shorebird/bin:$PATH")  في ملف ~/.zshrc
 
