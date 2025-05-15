@@ -78,7 +78,10 @@
 
 ✅ أي تغييرات في منطق التطبيق (Business Logic)
 
-❌ ما لا يمكن تحديثه من خلال Shorebird
+
+
+❌ ما لا يمكن تحديثه من خلال Shorebird:
+
 ❌ إضافة أو إزالة أذونات (Permissions) في info.split/AndroidManifest.xml
 
 ❌ تعديل أو إضافة Native Plugins
