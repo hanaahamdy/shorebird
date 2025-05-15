@@ -5,7 +5,7 @@
 
 ### 1. تثبيت Shorebird CLI:
 من خلال التيرمينال نقوم بتنفيذ هذا الامر (curl --proto '=https' --tlsv1.2 https://raw.githubusercontent.com/shorebirdtech/install/main/install.sh -sSf | bash)هذا الأمر يقوم بتحميل وتشغيل سكربت التثبيت الخاص ب Shorebird CLIحتي نتمكن من استخدام اوامر ال Shorebird.
-بعد تثبيت Shorebird ClI نقوم بإضافة مسار مجلد bin إلى متغير PATH حتى تتمكن من استخدام أوامر shorebird من أي مكان في الجهاز.
+بعد تثبيت Shorebird ClI نقوم بإضافة مسار مجلد bin إلى متغيرال PATH حتى تتمكن من استخدام أوامر shorebird من أي مكان في الجهاز.
 
 Mac=======>(export PATH="$HOME/.shorebird/bin:$PATH")  في ملف ~/.zshrcshorebird doctor
 Windows====>(Environment Variables نختار المتغير Path====>NewC:\Users\<اسم_المستخدم>\.shorebird\bin)
